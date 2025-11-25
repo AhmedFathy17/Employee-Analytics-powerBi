@@ -134,7 +134,7 @@ This dashboard solves that by: ✔ Providing a clear overview of employee struct
 
 📷 Dashboard Screenshots
 
-(Upload your screenshots here)
+https://github.com/AhmedFathy17/Employee-Analytics-powerBi/blob/main/%D8%B5%D9%88%D8%B1%D9%87-mini-project.png?raw=true
 
 
 ---
